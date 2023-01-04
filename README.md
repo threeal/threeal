@@ -27,3 +27,5 @@ C/C++ enthusiast, experienced with building native app on Linux, macOS, and Wind
 Also a fast learner and generalist who can develop many things ranging from a full-stack app using TypeScript,
 an image processing and computer vision program using OpenCV,
 to shell or batch scripts for Docker Images and CI workflows.
+
+![github contribution animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
