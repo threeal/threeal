@@ -16,4 +16,7 @@
   <a href="https://www.linkedin.com/in/alfi-maulana-40546184/">
     <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin"/>
   </a>
+  <a href="https://steamcommunity.com/id/threeal">
+    <img src="https://img.shields.io/badge/Steam-play%20with%20me-2f6894?logo=steam"/>
+  </a>
 </p>
