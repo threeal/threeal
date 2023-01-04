@@ -12,4 +12,8 @@
   <a href="http://discordapp.com/users/414737288304525314">
     <img src="https://img.shields.io/badge/Discord-chat%20me-5865f2?logo=discord"/>
   </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/alfi-maulana-40546184/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin"/>
+  </a>
 </p>
