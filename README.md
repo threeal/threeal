@@ -30,6 +30,9 @@ to shell or batch scripts for Docker Images and CI workflows.
 
 ## My Works
 
-Aside from my current job at [Lumina](https://getlumina.com/), i also work on several personal projects. Currently, most of these projects are in [C++](https://isocpp.org/), while some other are [GitHub Actions](https://github.com/features/actions) for utilyzing my other projects. Please refer to [my repositories](https://github.com/threeal?tab=repositories) for list of all projects that i have done.
+Aside from my current job, i also work on several personal projects.
+Currently, most of these projects are in [C++](https://isocpp.org/),
+  while some other are [GitHub Actions](https://github.com/features/actions) for utilyzing my other projects.
+Please refer to [my repositories](https://github.com/threeal?tab=repositories) for list of projects that i have done.
 
 ![github contribution animation](https://raw.githubusercontent.com/threeal/threeal/output/github-snake.svg)
