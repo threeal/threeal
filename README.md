@@ -35,4 +35,11 @@ Currently, most of these projects are in [C++](https://isocpp.org/),
   while some other are [GitHub Actions](https://github.com/features/actions) for utilyzing my other projects.
 Please refer to [my repositories](https://github.com/threeal?tab=repositories) for list of projects that i have done.
 
+### GitHub Actions Projects
+
+- [**CMake Action**](https://github.com/threeal/cmake-action),
+  configure and build [CMake](https://cmake.org/) project on GitHub Actions.
+- [**Gcovr Action**](https://github.com/threeal/gcovr-action/),
+  generate code coverage report for C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
+
 ![github contribution animation](https://raw.githubusercontent.com/threeal/threeal/output/github-snake.svg)
