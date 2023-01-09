@@ -35,16 +35,16 @@ Also, a fast learner and generalist who can develop multiple things like
 
 ## My Works
 
-Aside from my current job, i also work on several personal projects.
+Aside from my current job, I also work on several personal projects.
 Currently, most of these projects are in [C++](https://isocpp.org/),
-  while some other are [GitHub Actions](https://github.com/features/actions) for utilyzing my other projects.
-Please refer to [my repositories](https://github.com/threeal?tab=repositories) for list of projects that i have done.
+  while others are [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
+Please refer to [my repositories](https://github.com/threeal?tab=repositories) for a list of all projects that I have done.
 
 ### GitHub Actions Projects
 
 - [**CMake Action**](https://github.com/threeal/cmake-action) [WIP],
   configure and build [CMake](https://cmake.org/) project on GitHub Actions.
 - [**Gcovr Action**](https://github.com/threeal/gcovr-action/) [[v0.1.0]](https://github.com/threeal/gcovr-action/releases/tag/v0.1.0),
-  generate code coverage report for C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
+  generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
 
 ![github contribution animation](https://raw.githubusercontent.com/threeal/threeal/output/github-snake.svg)
