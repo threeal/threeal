@@ -23,10 +23,11 @@
 
 <br/>
 
-C/C++ enthusiast, experienced with building native app on Linux, macOS, and Windows.
-Also a fast learner and generalist who can develop many things ranging from a full-stack app using TypeScript,
-an image processing and computer vision program using OpenCV,
-to shell or batch scripts for Docker Images and CI workflows.
+A C++ enthusiast who is experienced with building and optimizing native apps on Linux, macOS, and Windows.
+Also, a fast learner and generalist who can develop multiple things like computer vision programs using OpenCV,
+  shell scripts for CI workflows,
+  web apps using TypeScript,
+  and microservices using Go.
 
 ## My Works
 
