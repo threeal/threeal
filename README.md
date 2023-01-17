@@ -40,6 +40,10 @@ Currently, most of these projects are in [C++](https://isocpp.org/),
   while others are [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
 Please refer to [my repositories](https://github.com/threeal?tab=repositories) for a list of all projects that I have done.
 
+### C++ Projects
+
+- [**Math**](https://github.com/threeal/math) [WIP], a simple C++ [math](https://en.wikipedia.org/wiki/Mathematics) library.
+
 ### GitHub Actions Projects
 
 - [**CMake Action**](https://github.com/threeal/cmake-action) [[v1.0.0]](https://github.com/threeal/cmake-action/releases/tag/v1.0.0),
