@@ -42,6 +42,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 ### C++ Projects
 
+- [**Result**](https://github.com/threeal/result) [WIP], a simple C++ implementation of [Rust Result](https://doc.rust-lang.org/std/result/), an alternative to [Abseil Status](https://abseil.io/docs/cpp/guides/status).
 - [**Math**](https://github.com/threeal/math) [WIP], a simple C++ [math](https://en.wikipedia.org/wiki/Mathematics) library.
 
 ### GitHub Actions Projects
