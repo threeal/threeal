@@ -56,5 +56,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 ### Other Projects
 
 - [**Minimal C++ Starter**](https://github.com/threeal/minimal-cpp-starter), a minimal C++ template to kickstart your project.
+- [**Bro**](https://github.com/threeal/bro) [WIP], your friendly, personal, multi-purpose [buddy](https://en.wiktionary.org/wiki/buddy) written in Go.
 
 ![github contribution animation](https://raw.githubusercontent.com/threeal/threeal/output/github-snake.svg)
