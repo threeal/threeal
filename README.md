@@ -53,7 +53,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Gcovr Action**](https://github.com/threeal/gcovr-action/) [[v0.2.0]](https://github.com/threeal/gcovr-action/releases/tag/v0.2.0),
   generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
 
-### Template Projects
+### Other Projects
 
 - [**Minimal C++ Starter**](https://github.com/threeal/minimal-cpp-starter), a minimal C++ template to kickstart your project.
 
