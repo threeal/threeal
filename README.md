@@ -45,6 +45,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Result**](https://github.com/threeal/result) [WIP], a simple C++ implementation of [Rust Result](https://doc.rust-lang.org/std/result/), an alternative to [Abseil Status](https://abseil.io/docs/cpp/guides/status).
 - [**Math**](https://github.com/threeal/math) [WIP], a simple C++ [math](https://en.wikipedia.org/wiki/Mathematics) library.
 - [**Volume C++**](https://github.com/threeal/volume-cpp) [WIP], a cross-platform C++ audio volume control library.
+- [**Minimal C++ Starter**](https://github.com/threeal/minimal-cpp-starter), a minimal C++ template to kickstart your project.
 
 ### GitHub Actions Projects
 
@@ -55,7 +56,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 ### Other Projects
 
-- [**Minimal C++ Starter**](https://github.com/threeal/minimal-cpp-starter), a minimal C++ template to kickstart your project.
 - [**Bro**](https://github.com/threeal/bro) [WIP], your friendly, personal, multi-purpose [buddy](https://en.wiktionary.org/wiki/buddy) written in Go.
 - [**Doxycode**](https://github.com/threeal/doxycode) [WIP], a code parser for a [Doxygen](https://www.doxygen.nl/) project.
 
