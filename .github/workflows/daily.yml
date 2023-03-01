@@ -1,7 +1,9 @@
 name: daily
 on:
-  push:
   workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 16 * * *"
 jobs:
@@ -16,6 +18,7 @@ jobs:
             dist/github-snake.svg
 
       - name: Push generated animation to output branch
+        if: github.event_name != 'pull_request'
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
