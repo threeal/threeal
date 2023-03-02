@@ -68,4 +68,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Doxycode**](https://github.com/threeal/doxycode) [WIP],
   a code parser for a [Doxygen](https://www.doxygen.nl/) project.
 
-![github contribution animation](https://raw.githubusercontent.com/threeal/threeal/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/threeal/threeal/output/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/threeal/threeal/output/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/threeal/threeal/output/grid-snake.svg" />
+</picture>
