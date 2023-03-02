@@ -10,14 +10,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub contribution grid snake animation
+      - name: Generate grid snake animation
         uses: Platane/snk@v2.2.1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
 
-      - name: Push generated animation to output branch
+      - name: Upload animation as an artifact
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: animation
+          path: dist/
+
+      - name: Push animation to output branch
         if: github.event_name != 'pull_request'
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
