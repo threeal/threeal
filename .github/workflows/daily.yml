@@ -17,6 +17,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
 
+      - name: Upload animation as an artifact
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: animation
+          path: dist/
+
       - name: Push generated animation to output branch
         if: github.event_name != 'pull_request'
         uses: crazy-max/ghaction-github-pages@v3.1.0
