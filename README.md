@@ -66,6 +66,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   - [@actions-kit/exec](https://github.com/threeal/actions-kit/tree/main/packages/exec)
     [[v0.2.0]](https://github.com/threeal/actions-kit/releases/tag/exec%40v0.2.0),
     a command execution library.
+  - [@actions-kit/log](https://github.com/threeal/actions-kit/tree/main/packages/log) [WIP],
+    a console log library.
 
 
 ### Other Projects
