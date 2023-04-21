@@ -68,6 +68,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
     a command execution library.
   - [@actions-kit/log](https://github.com/threeal/actions-kit/tree/main/packages/log) [WIP],
     a console log library.
+  - [@actions-kit/pip](https://github.com/threeal/actions-kit/tree/main/packages/pip) [WIP],
+    a [pip](https://pypi.org/project/pip) package management library.
 
 
 ### Other Projects
