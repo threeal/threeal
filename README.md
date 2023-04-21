@@ -57,8 +57,22 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   configure, build, and test a [CMake](https://cmake.org/) project on GitHub Actions.
 - [**Gcovr Action**](https://github.com/threeal/gcovr-action/) [[v0.2.0]](https://github.com/threeal/gcovr-action/releases/tag/v0.2.0),
   generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
-- [**Actions Kit**](https://github.com/threeal/actions-kit) [WIP],
-  an additional [GitHub ToolKit](https://github.com/actions/toolkit) for developing GitHub Actions.
+- [**Actions Kit**](https://github.com/threeal/actions-kit),
+  an additional [toolkit](https://github.com/actions/toolkit) for developing GitHub Actions.
+  It contains the following packages:
+  - [@actions-kit/dev](https://github.com/threeal/actions-kit/tree/main/packages/dev)
+    [[v0.1.0]](https://github.com/threeal/actions-kit/releases/tag/dev%40v0.1.0),
+    a development configuration library.
+  - [@actions-kit/envi](https://github.com/threeal/actions-kit/tree/main/packages/envi)
+    [[v0.1.0]](https://github.com/threeal/actions-kit/releases/tag/envi%40v0.1.0),
+    an environment management library.
+  - [@actions-kit/exec](https://github.com/threeal/actions-kit/tree/main/packages/exec)
+    [[v0.2.0]](https://github.com/threeal/actions-kit/releases/tag/exec%40v0.2.0),
+    a command execution library.
+  - [@actions-kit/log](https://github.com/threeal/actions-kit/tree/main/packages/log) [WIP],
+    a console log library.
+  - [@actions-kit/pip](https://github.com/threeal/actions-kit/tree/main/packages/pip) [WIP],
+    a [pip](https://pypi.org/project/pip) package management library.
 
 
 ### Other Projects
