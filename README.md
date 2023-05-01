@@ -61,7 +61,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   an additional [toolkit](https://github.com/actions/toolkit) for developing GitHub Actions.
   It contains the following packages:
   - [@actions-kit/dev](https://github.com/threeal/actions-kit/tree/main/packages/dev)
-    [[v0.1.0]](https://github.com/threeal/actions-kit/releases/tag/dev%40v0.1.0),
+    [[v0.1.1]](https://github.com/threeal/actions-kit/releases/tag/dev%40v0.1.1),
     a development configuration library.
   - [@actions-kit/envi](https://github.com/threeal/actions-kit/tree/main/packages/envi)
     [[v0.1.0]](https://github.com/threeal/actions-kit/releases/tag/envi%40v0.1.0),
