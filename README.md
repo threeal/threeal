@@ -60,6 +60,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Actions Kit**](https://github.com/threeal/actions-kit),
   an additional [toolkit](https://github.com/actions/toolkit) for developing GitHub Actions.
   It contains the following packages:
+  - [@actions-kit/cache](https://github.com/threeal/actions-kit/tree/main/packages/cache) [WIP],
+    a file caching library.
   - [@actions-kit/dev](https://github.com/threeal/actions-kit/tree/main/packages/dev)
     [[v0.1.1]](https://github.com/threeal/actions-kit/releases/tag/dev%40v0.1.1),
     a development configuration library.
