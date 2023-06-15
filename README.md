@@ -57,6 +57,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   your friendly, personal, multi-purpose [buddy](https://en.wiktionary.org/wiki/buddy) written in Go.
 - [**Shell Go**](https://github.com/threeal/shell-go) [WIP],
   a Go package for executing shell commands.
+- [**Starter Go**](https://github.com/threeal/starter-go),
+  a minimalistic Go template to kickstart your project.
 
 ### GitHub Actions Projects
 
