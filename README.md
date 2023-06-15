@@ -36,7 +36,7 @@ Also, a fast learner and generalist who can develop multiple things like
 ## My Works
 
 Aside from my current job, I also work on several personal projects.
-Currently, most of these projects are in [C++](https://isocpp.org/),
+Currently, most of these projects are in [C++](https://isocpp.org/) and [Go](https://go.dev/),
   while others are [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
 Please refer to [my repositories](https://github.com/threeal?tab=repositories) for a list of all projects that I have done.
 
@@ -50,6 +50,11 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   a cross-platform C++ audio volume control library.
 - [**Minimal C++ Starter**](https://github.com/threeal/minimal-cpp-starter),
   a minimal C++ template to kickstart your project.
+
+### Go Projects
+
+- [**Bro**](https://github.com/threeal/bro) [WIP],
+  your friendly, personal, multi-purpose [buddy](https://en.wiktionary.org/wiki/buddy) written in Go.
 
 ### GitHub Actions Projects
 
@@ -79,8 +84,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 ### Other Projects
 
-- [**Bro**](https://github.com/threeal/bro) [WIP],
-  your friendly, personal, multi-purpose [buddy](https://en.wiktionary.org/wiki/buddy) written in Go.
 - [**Doxycode**](https://github.com/threeal/doxycode) [WIP],
   a code parser for a [Doxygen](https://www.doxygen.nl/) project.
 
