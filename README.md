@@ -55,6 +55,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 - [**Bro**](https://github.com/threeal/bro) [WIP],
   your friendly, personal, multi-purpose [buddy](https://en.wiktionary.org/wiki/buddy) written in Go.
+- [**Shell Go**](https://github.com/threeal/shell-go) [WIP],
+  a Go package for executing shell commands.
 
 ### GitHub Actions Projects
 
