@@ -69,7 +69,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 - [**CMake Action**](https://github.com/threeal/cmake-action)
   [[v1.2.0]](https://github.com/threeal/cmake-action/releases/tag/v1.2.0),
-  configure, build, and test a [CMake](https://cmake.org/) project on GitHub Actions.
+  configure, build, and test your [CMake](https://cmake.org/) project using GitHub Actions.
 - [**Gcovr Action**](https://github.com/threeal/gcovr-action/) [[v0.2.0]](https://github.com/threeal/gcovr-action/releases/tag/v0.2.0),
   generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
 - [**Actions Kit**](https://github.com/threeal/actions-kit),
