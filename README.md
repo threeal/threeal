@@ -55,6 +55,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   a cross-platform C++ audio volume control library.
 - [**Minimal C++ Starter**](https://github.com/threeal/minimal-cpp-starter),
   a minimal C++ template to kickstart your project.
+- [**Devel.cmake**](https://github.com/threeal/Devel.cmake) [WIP],
+  streamline your CMake project with package management, code formatting, and static analysis tools.
 
 ### Go Projects
 
