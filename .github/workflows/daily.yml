@@ -18,6 +18,8 @@ jobs:
             dist/grid-snake.svg
             dist/grid-snake-dark.svg?palette=github-dark
             dist/grid-snake-light.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload animations as an artifact
         uses: actions/upload-artifact@v3.1.2
