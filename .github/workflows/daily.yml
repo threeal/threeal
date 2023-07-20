@@ -11,13 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate grid snake animations
-        uses: Platane/snk@v2.2.1
+        uses: Platane/snk@v3.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/grid-snake.svg
             dist/grid-snake-dark.svg?palette=github-dark
             dist/grid-snake-light.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload animations as an artifact
         uses: actions/upload-artifact@v3.1.2
