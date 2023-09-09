@@ -105,7 +105,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   a code parser for a [Doxygen](https://www.doxygen.nl/) project.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/threeal/threeal/output/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/threeal/threeal/output/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/threeal/threeal/output/grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
 </picture>
