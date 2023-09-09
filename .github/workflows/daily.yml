@@ -26,16 +26,6 @@ jobs:
         with:
           path: dist
 
-      - name: Push animations to output branch
-        if: github.event_name != 'pull_request'
-        uses: crazy-max/ghaction-github-pages@v3.2.0
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
   deploy:
     if: github.event_name != 'pull_request'
     needs: generate
