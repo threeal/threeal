@@ -21,11 +21,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload animations as an artifact
-        uses: actions/upload-artifact@v3.1.3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2.0.0
         with:
-          name: animation
-          path: dist/
+          path: dist
 
       - name: Push animations to output branch
         if: github.event_name != 'pull_request'
