@@ -72,6 +72,9 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Composite Action Starter**](https://github.com/threeal/composite-action-starter)
   [[v1.0.0]](https://github.com/threeal/composite-action-starter/releases/tag/v1.0.0),
   a minimalistic GitHub repository template to kickstart your GitHub composite action project.
+- [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action)
+  [[v1.0.0]](https://github.com/threeal/setup-poetry-action/releases/tag/v1.0.0),
+  set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
 - [**CMake Action**](https://github.com/threeal/cmake-action)
   [[v1.2.0]](https://github.com/threeal/cmake-action/releases/tag/v1.2.0),
   configure, build, and test your [CMake](https://cmake.org/) project using GitHub Actions.
