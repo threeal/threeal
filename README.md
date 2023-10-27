@@ -107,6 +107,9 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Project Starter**](https://github.com/threeal/project-starter)
   [[v1.1.0]](https://github.com/threeal/project-starter/releases/tag/v1.1.0),
   a minimalistic [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to kickstart your project.
+- [**Python Starter**](https://github.com/threeal/python-starter)
+  [[v1.0.0]](https://github.com/threeal/python-starter/releases/tag/v1.0.0),
+  a minimalistic GitHub repository template to kickstart your [Python](https://www.python.org/) project.
 - [**Google Rank**](https://github.com/threeal/google-rank)
   [[v0.2.0]](https://github.com/threeal/google-rank/releases/tag/v0.2.0),
   retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
