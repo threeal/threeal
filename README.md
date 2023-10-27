@@ -70,7 +70,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 ### GitHub Actions Projects
 
 - [**Composite Action Starter**](https://github.com/threeal/composite-action-starter)
-  [[v1.0.0]](https://github.com/threeal/composite-action-starter/releases/tag/v1.0.0),
+  [[v1.1.0]](https://github.com/threeal/composite-action-starter/releases/tag/v1.1.0),
   a minimalistic GitHub repository template to kickstart your GitHub composite action project.
 - [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action)
   [[v1.0.0]](https://github.com/threeal/setup-poetry-action/releases/tag/v1.0.0),
