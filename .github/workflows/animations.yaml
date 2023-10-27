@@ -19,8 +19,6 @@ jobs:
             dist/grid-snake.svg
             dist/grid-snake-dark.svg?palette=github-dark
             dist/grid-snake-light.svg?palette=github-light
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v2.0.0
