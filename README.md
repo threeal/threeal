@@ -76,7 +76,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   [[v1.0.0]](https://github.com/threeal/setup-poetry-action/releases/tag/v1.0.0),
   set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
 - [**ROS 2 Workspace Action**](https://github.com/ichiro-its/ros2-ws-action)
-  [[v1.0.0]](https://github.com/ichiro-its/ros2-ws-action/releases/tag/v1.0.0),
+  [[v1.0.1]](https://github.com/ichiro-its/ros2-ws-action/releases/tag/v1.0.1),
   setup, build and test a [ROS 2](https://www.ros.org/) workspace using GitHub Actions.
 - [**CMake Action**](https://github.com/threeal/cmake-action)
   [[v1.2.0]](https://github.com/threeal/cmake-action/releases/tag/v1.2.0),
