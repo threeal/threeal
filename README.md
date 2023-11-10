@@ -48,15 +48,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   [[v1.0.0]](https://github.com/threeal/CheckWarning.cmake/releases/tag/v1.0.0),
   check for compiler warnings in your CMake project.
 
-### Go Projects
-
-- [**Bro**](https://github.com/threeal/bro) [WIP],
-  your friendly, personal, multi-purpose [buddy](https://en.wiktionary.org/wiki/buddy) written in Go.
-- [**Shell Go**](https://github.com/threeal/shell-go) [WIP],
-  a Go package for executing shell commands.
-- [**Starter Go**](https://github.com/threeal/starter-go),
-  a minimalistic Go template to kickstart your project.
-
 ### GitHub Actions Projects
 
 - [**Composite Action Starter**](https://github.com/threeal/composite-action-starter)
