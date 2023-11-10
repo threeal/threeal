@@ -36,7 +36,7 @@ Also, a fast learner and generalist who can develop multiple things like
 ## My Works
 
 Aside from my current job, I also work on several personal projects.
-Currently, most of these projects are in [C++](https://isocpp.org/) and [Go](https://go.dev/),
+Currently, most of these projects are in [C++](https://isocpp.org/),
   while others are [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
 Please refer to [my repositories](https://github.com/threeal?tab=repositories) for a list of all projects that I have done.
 
