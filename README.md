@@ -76,8 +76,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Google Rank**](https://github.com/threeal/google-rank)
   [[v0.2.0]](https://github.com/threeal/google-rank/releases/tag/v0.2.0),
   retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
-- [**Doxycode**](https://github.com/threeal/doxycode) [WIP],
-  a code parser for a [Doxygen](https://www.doxygen.nl/) project.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
