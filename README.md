@@ -44,8 +44,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 - [**Result**](https://github.com/threeal/result) [[v0.1.0]](https://github.com/threeal/result/releases/tag/v0.1.0),
   a simple C++ implementation of [Rust Result](https://doc.rust-lang.org/std/result/), an alternative to [Abseil Status](https://abseil.io/docs/cpp/guides/status).
-- [**Volume C++**](https://github.com/threeal/volume-cpp) [WIP],
-  a cross-platform C++ audio volume control library.
 - [**Minimal C++ Starter**](https://github.com/threeal/minimal-cpp-starter),
   a minimal C++ template to kickstart your project.
 - [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake)
