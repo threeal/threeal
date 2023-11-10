@@ -44,11 +44,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 - [**Result**](https://github.com/threeal/result) [[v0.1.0]](https://github.com/threeal/result/releases/tag/v0.1.0),
   a simple C++ implementation of [Rust Result](https://doc.rust-lang.org/std/result/), an alternative to [Abseil Status](https://abseil.io/docs/cpp/guides/status).
-- [**Cpp**](https://github.com/threeal/cpp),
-  a comprehensive collection of C++ utility packages.
-  It contains the following packages:
-  - [Error](https://github.com/threeal/cpp/tree/main/error) [WIP],
-    a C++ package that provides utilities for error handling.
 - [**Math**](https://github.com/threeal/math) [WIP],
   a simple C++ [math](https://en.wikipedia.org/wiki/Mathematics) library.
 - [**Volume C++**](https://github.com/threeal/volume-cpp) [WIP],
