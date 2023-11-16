@@ -47,6 +47,11 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake):
   Check for compiler warnings in your [CMake](https://cmake.org/) project .
 
+### Node.js Projects
+
+- [**Google Rank**](https://github.com/threeal/google-rank):
+  Retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
+
 ### GitHub Actions Projects
 
 - [**Composite Action Starter**](https://github.com/threeal/composite-action-starter):
@@ -66,8 +71,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A minimalistic GitHub repository template to kickstart your project.
 - [**Python Starter**](https://github.com/threeal/python-starter):
   A minimalistic GitHub repository template to kickstart your [Python](https://www.python.org/) project.
-- [**Google Rank**](https://github.com/threeal/google-rank):
-  Retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
