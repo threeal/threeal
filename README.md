@@ -49,13 +49,15 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 ### Node.js Projects
 
+- [**Node.js Starter**](https://github.com/threeal/nodejs-starter):
+  A minimalistic [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to kickstart your [Node.js](https://nodejs.org/en) project.
 - [**Google Rank**](https://github.com/threeal/google-rank):
   Retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
 
 ### GitHub Actions Projects
 
 - [**Composite Action Starter**](https://github.com/threeal/composite-action-starter):
-  A minimalistic [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to kickstart your [GitHub composite action](https://github.com/features/actions) project.
+  A minimalistic GitHub repository template to kickstart your [GitHub composite action](https://github.com/features/actions) project.
 - [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action):
   Set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
 - [**ROS 2 Workspace Action**](https://github.com/ichiro-its/ros2-ws-action):
