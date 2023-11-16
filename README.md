@@ -72,6 +72,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A minimalistic GitHub repository template to kickstart your project.
 - [**Python Starter**](https://github.com/threeal/python-starter):
   A minimalistic GitHub repository template to kickstart your [Python](https://www.python.org/) project.
+- [**LeetSpace**](https://github.com/threeal/leetspace):
+  A dedicated workspace and archive for my [LeetCode](https://leetcode.com/) submissions.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
