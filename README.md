@@ -42,40 +42,32 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 ### C++ Projects
 
-- [**Result**](https://github.com/threeal/result) [[v0.1.0]](https://github.com/threeal/result/releases/tag/v0.1.0),
-  a simple C++ implementation of [Rust Result](https://doc.rust-lang.org/std/result/), an alternative to [Abseil Status](https://abseil.io/docs/cpp/guides/status).
-- [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake)
-  [[v1.0.0]](https://github.com/threeal/CheckWarning.cmake/releases/tag/v1.0.0),
-  check for compiler warnings in your CMake project.
+- [**Result**](https://github.com/threeal/result):
+  A simple C++ implementation of [Rust Result](https://doc.rust-lang.org/std/result/), an alternative to [Abseil Status](https://abseil.io/docs/cpp/guides/status).
+- [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake):
+  Check for compiler warnings in your [CMake](https://cmake.org/) project .
 
 ### GitHub Actions Projects
 
-- [**Composite Action Starter**](https://github.com/threeal/composite-action-starter)
-  [[v1.1.0]](https://github.com/threeal/composite-action-starter/releases/tag/v1.1.0),
-  a minimalistic GitHub repository template to kickstart your GitHub composite action project.
-- [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action)
-  [[v1.0.0]](https://github.com/threeal/setup-poetry-action/releases/tag/v1.0.0),
-  set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
-- [**ROS 2 Workspace Action**](https://github.com/ichiro-its/ros2-ws-action)
-  [[v1.0.1]](https://github.com/ichiro-its/ros2-ws-action/releases/tag/v1.0.1),
-  setup, build and test a [ROS 2](https://www.ros.org/) workspace using GitHub Actions.
-- [**CMake Action**](https://github.com/threeal/cmake-action)
-  [[v1.2.0]](https://github.com/threeal/cmake-action/releases/tag/v1.2.0),
-  configure, build, and test your [CMake](https://cmake.org/) project using GitHub Actions.
-- [**Gcovr Action**](https://github.com/threeal/gcovr-action/) [[v0.2.0]](https://github.com/threeal/gcovr-action/releases/tag/v0.2.0),
-  generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
+- [**Composite Action Starter**](https://github.com/threeal/composite-action-starter):
+  A minimalistic [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to kickstart your [GitHub composite action](https://github.com/features/actions) project.
+- [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action):
+  Set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
+- [**ROS 2 Workspace Action**](https://github.com/ichiro-its/ros2-ws-action):
+  Setup, build and test a [ROS 2](https://www.ros.org/) workspace using GitHub Actions.
+- [**CMake Action**](https://github.com/threeal/cmake-action):
+  Configure, build, and test your CMake project using GitHub Actions.
+- [**Gcovr Action**](https://github.com/threeal/gcovr-action/):
+  Generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
 
 ### Other Projects
 
-- [**Project Starter**](https://github.com/threeal/project-starter)
-  [[v1.1.0]](https://github.com/threeal/project-starter/releases/tag/v1.1.0),
-  a minimalistic [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to kickstart your project.
-- [**Python Starter**](https://github.com/threeal/python-starter)
-  [[v1.0.0]](https://github.com/threeal/python-starter/releases/tag/v1.0.0),
-  a minimalistic GitHub repository template to kickstart your [Python](https://www.python.org/) project.
-- [**Google Rank**](https://github.com/threeal/google-rank)
-  [[v0.2.0]](https://github.com/threeal/google-rank/releases/tag/v0.2.0),
-  retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
+- [**Project Starter**](https://github.com/threeal/project-starter):
+  A minimalistic GitHub repository template to kickstart your project.
+- [**Python Starter**](https://github.com/threeal/python-starter):
+  A minimalistic GitHub repository template to kickstart your [Python](https://www.python.org/) project.
+- [**Google Rank**](https://github.com/threeal/google-rank):
+  Retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
