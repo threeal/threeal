@@ -36,8 +36,7 @@ Also, a fast learner and generalist who can develop multiple things like
 ## My Works
 
 Aside from my current job, I also work on several personal projects.
-Currently, most of these projects are in [C++](https://isocpp.org/),
-  while others are [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
+Currently, most of these projects are [GitHub repository templates](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) and [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
 Please refer to [my repositories](https://github.com/threeal?tab=repositories) for a list of all projects that I have done.
 
 ### C++ Projects
@@ -50,7 +49,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 ### Node.js Projects
 
 - [**Node.js Starter**](https://github.com/threeal/nodejs-starter):
-  A minimalistic [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to kickstart your [Node.js](https://nodejs.org/en) project.
+  A minimalistic GitHub repository template to kickstart your [Node.js](https://nodejs.org/en) project.
 - [**Google Rank**](https://github.com/threeal/google-rank):
   Retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
 
