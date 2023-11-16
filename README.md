@@ -36,8 +36,7 @@ Also, a fast learner and generalist who can develop multiple things like
 ## My Works
 
 Aside from my current job, I also work on several personal projects.
-Currently, most of these projects are in [C++](https://isocpp.org/),
-  while others are [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
+Currently, most of these projects are [GitHub repository templates](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) and [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
 Please refer to [my repositories](https://github.com/threeal?tab=repositories) for a list of all projects that I have done.
 
 ### C++ Projects
@@ -47,10 +46,17 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake):
   Check for compiler warnings in your [CMake](https://cmake.org/) project .
 
+### Node.js Projects
+
+- [**Node.js Starter**](https://github.com/threeal/nodejs-starter):
+  A minimalistic GitHub repository template to kickstart your [Node.js](https://nodejs.org/en) project.
+- [**Google Rank**](https://github.com/threeal/google-rank):
+  Retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
+
 ### GitHub Actions Projects
 
 - [**Composite Action Starter**](https://github.com/threeal/composite-action-starter):
-  A minimalistic [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to kickstart your [GitHub composite action](https://github.com/features/actions) project.
+  A minimalistic GitHub repository template to kickstart your [GitHub composite action](https://github.com/features/actions) project.
 - [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action):
   Set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
 - [**ROS 2 Workspace Action**](https://github.com/ichiro-its/ros2-ws-action):
@@ -66,8 +72,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A minimalistic GitHub repository template to kickstart your project.
 - [**Python Starter**](https://github.com/threeal/python-starter):
   A minimalistic GitHub repository template to kickstart your [Python](https://www.python.org/) project.
-- [**Google Rank**](https://github.com/threeal/google-rank):
-  Retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
