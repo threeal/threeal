@@ -6,11 +6,11 @@ on:
   schedule:
     - cron: "0 16 * * *"
 jobs:
-  generate:
+  generate-animations:
     name: Generate Animations
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animations
+      - name: Generate Snake Animations
         uses: Platane/snk/svg-only@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -19,15 +19,14 @@ jobs:
             dist/grid-snake-dark.svg?palette=github-dark
             dist/grid-snake-light.svg?palette=github-light
 
-      - name: Upload Pages artifact
+      - name: Upload Snake Animations
         uses: actions/upload-pages-artifact@v2.0.0
         with:
           path: dist
 
-  deploy:
-    name: Deploy to Pages
-    if: github.event_name != 'pull_request' && github.ref_name == 'main'
-    needs: generate
+  deploy-pages:
+    name: Deploy Pages
+    needs: generate-animations
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -40,9 +39,9 @@ jobs:
       group: pages
       cancel-in-progress: false
     steps:
-      - name: Configure Pages
+      - name: Setup Pages
         uses: actions/configure-pages@v3.0.6
 
-      - name: Deploy to Pages
+      - name: Deploy Pages
         id: deployment
         uses: actions/deploy-pages@v2.0.4
