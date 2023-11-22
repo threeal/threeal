@@ -1,4 +1,4 @@
-name: Snake Animations
+name: Deploy
 on:
   workflow_dispatch:
   pull_request:
