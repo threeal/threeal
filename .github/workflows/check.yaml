@@ -1,0 +1,21 @@
+name: Check
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  check-format:
+    name: Check Formatting
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.1.1
+
+      - name: Enable Yarn
+        run: corepack enable yarn
+
+      - name: Check Formatting
+        run: |
+          yarn dlx prettier --write .
+          git diff --exit-code HEAD

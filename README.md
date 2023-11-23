@@ -23,15 +23,8 @@
 
 <br/>
 
-A [C++](https://isocpp.org/) enthusiast who is experienced with building and optimizing native apps on
-  [Linux](https://ubuntu.com/desktop),
-  [macOS](https://www.apple.com/macos),
-  and [Windows](https://www.microsoft.com/en-us/windows).
-Also, a fast learner and generalist who can develop multiple things like
-  computer vision programs using [OpenCV](https://opencv.org/),
-  shell scripts for [CI workflows](https://github.com/features/actions),
-  web apps using [TypeScript](https://www.typescriptlang.org/),
-  and microservices using [Go](https://go.dev/).
+A [C++](https://isocpp.org/) enthusiast who is experienced with building and optimizing native apps on [Linux](https://ubuntu.com/desktop), [macOS](https://www.apple.com/macos), and [Windows](https://www.microsoft.com/en-us/windows).
+Also, a fast learner and generalist who can develop multiple things like computer vision programs using [OpenCV](https://opencv.org/), shell scripts for [CI workflows](https://github.com/features/actions), web apps using [TypeScript](https://www.typescriptlang.org/), and microservices using [Go](https://go.dev/).
 
 ## My Works
 
