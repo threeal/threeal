@@ -52,6 +52,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A minimalistic GitHub repository template to kickstart your [GitHub Action](https://github.com/features/actions) project.
 - [**Composite Action Starter**](https://github.com/threeal/composite-action-starter):
   A minimalistic GitHub repository template to kickstart your [GitHub composite action](https://github.com/features/actions) project.
+- [**Yarn Install Action**](https://github.com/threeal/yarn-install-action):
+  Install Node.js dependencies using [Yarn](https://yarnpkg.com/) with cache support on GitHub Actions.
 - [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action):
   Set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
 - [**ROS 2 Workspace Action**](https://github.com/ichiro-its/ros2-ws-action):
