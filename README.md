@@ -34,6 +34,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 ### C++ Projects
 
+- [**C++ Starter**](https://github.com/threeal/cpp-starter):
+  A minimalistic GitHub repository template to kickstart your C++ project.
 - [**Result**](https://github.com/threeal/result):
   A simple C++ implementation of [Rust Result](https://doc.rust-lang.org/std/result/), an alternative to [Abseil Status](https://abseil.io/docs/cpp/guides/status).
 - [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake):
