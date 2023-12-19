@@ -41,6 +41,11 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake):
   Check for compiler warnings in your [CMake](https://cmake.org/) project .
 
+### CMake Projects
+
+- [**CMake Starter**](https://github.com/threeal/cmake-starter/):
+  A minimalistic GitHub repository template to kickstart your CMake project.
+
 ### Node.js Projects
 
 - [**Node.js Starter**](https://github.com/threeal/nodejs-starter):
