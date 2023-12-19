@@ -38,13 +38,13 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A minimalistic GitHub repository template to kickstart your C++ project.
 - [**Result**](https://github.com/threeal/result):
   A simple C++ implementation of [Rust Result](https://doc.rust-lang.org/std/result/), an alternative to [Abseil Status](https://abseil.io/docs/cpp/guides/status).
-- [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake):
-  Check for compiler warnings in your [CMake](https://cmake.org/) project .
 
 ### CMake Projects
 
 - [**CMake Starter**](https://github.com/threeal/cmake-starter/):
-  A minimalistic GitHub repository template to kickstart your CMake project.
+  A minimalistic GitHub repository template to kickstart your [CMake](https://cmake.org/) project.
+- [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake):
+  Check for compiler warnings in your CMake project.
 
 ### Node.js Projects
 
