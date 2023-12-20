@@ -20,7 +20,7 @@ jobs:
             dist/grid-snake-light.svg?palette=github-light
 
       - name: Upload Snake Animations
-        uses: actions/upload-pages-artifact@v2.0.0
+        uses: actions/upload-pages-artifact@v3.0.0
         with:
           path: dist
 
