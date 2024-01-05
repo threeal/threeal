@@ -6,7 +6,7 @@
   <a href="mailto:alfi.maulana.f@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mail%20me-f14336?logo=gmail"/>
   </a>
-  <a href="https://twitter.com/_alfi_maulana">
+  <a href="https://twitter.com/_threeal">
     <img src="https://img.shields.io/badge/Twitter-follow%20me-1d9bf0?logo=twitter"/>
   </a>
   <a href="http://discordapp.com/users/414737288304525314">
