@@ -4,20 +4,20 @@
 <h1 align="center">Alfi Maulana</h1>
 <p align="center">
   <a href="mailto:alfi.maulana.f@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mail%20me-f14336?logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-mail%20me-f14336?logo=gmail&style=flat-square"/>
   </a>
   <a href="https://twitter.com/_threeal">
-    <img src="https://img.shields.io/badge/Twitter-follow%20me-1d9bf0?logo=twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-follow%20me-1d9bf0?logo=twitter&style=flat-square"/>
   </a>
   <a href="http://discordapp.com/users/414737288304525314">
-    <img src="https://img.shields.io/badge/Discord-chat%20me-5865f2?logo=discord&logoColor=f5f5f5"/>
+    <img src="https://img.shields.io/badge/Discord-chat%20me-5865f2?logo=discord&logoColor=f5f5f5&style=flat-square"/>
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/alfi-maulana-40546184/">
-    <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin&style=flat-square"/>
   </a>
   <a href="https://steamcommunity.com/id/threeal">
-    <img src="https://img.shields.io/badge/Steam-play%20with%20me-2f6894?logo=steam"/>
+    <img src="https://img.shields.io/badge/Steam-play%20with%20me-2f6894?logo=steam&style=flat-square"/>
   </a>
 </p>
 
