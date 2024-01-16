@@ -47,6 +47,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A minimalistic GitHub repository template to kickstart your [CMake](https://cmake.org/) project.
 - [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake):
   Check for compiler warnings in your CMake project.
+- [**FixFormat.cmake**](https://github.com/threeal/FixFormat.cmake):
+  Fix source codes formatting in your CMake project.
 
 ### Node.js Projects
 
