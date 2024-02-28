@@ -61,18 +61,21 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 - [**Action Starter**](https://github.com/threeal/action-starter):
   A minimalistic GitHub repository template to kickstart your [GitHub Action](https://github.com/features/actions) project.
-- [**Composite Action Starter**](https://github.com/threeal/composite-action-starter):
-  A minimalistic GitHub repository template to kickstart your [GitHub composite action](https://github.com/features/actions) project.
 - [**Setup Yarn Berry Action**](https://github.com/threeal/yarn-install-action):
   Set up [Yarn](https://yarnpkg.com/) to a specified version and install Node.js project with cache support on GitHub Actions.
-- [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action):
-  Set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
-- [**ROS 2 Workspace Action**](https://github.com/ichiro-its/ros2-ws-action):
-  Setup, build and test a [ROS 2](https://www.ros.org/) workspace using GitHub Actions.
 - [**CMake Action**](https://github.com/threeal/cmake-action):
   Configure, build, and test your CMake project using GitHub Actions.
 - [**Gcovr Action**](https://github.com/threeal/gcovr-action/):
   Generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
+
+### GitHub Composite Actions Projects
+
+- [**Composite Action Starter**](https://github.com/threeal/composite-action-starter):
+  A minimalistic GitHub repository template to kickstart your [GitHub composite action](https://github.com/features/actions) project.
+- [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action):
+  Set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
+- [**ROS 2 Workspace Action**](https://github.com/ichiro-its/ros2-ws-action):
+  Setup, build and test a [ROS 2](https://www.ros.org/) workspace using GitHub Actions.
 
 ### Other Projects
 
