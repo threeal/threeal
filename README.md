@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/threeal/threeal/main/threeal.png" width="200"/>
-</p>
 <h1 align="center">Alfi Maulana</h1>
 <p align="center">
   <a href="mailto:alfi.maulana.f@gmail.com">
