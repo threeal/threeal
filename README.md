@@ -71,6 +71,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A minimalistic GitHub repository template to kickstart your [GitHub composite action](https://github.com/features/actions) project.
 - [**Setup Poetry Action**](https://github.com/threeal/setup-poetry-action):
   Set up your GitHub Actions workflow with a specific version of [Poetry](https://python-poetry.org).
+- [**CTest Action**](https://github.com/threeal/ctest-action):
+  Test CMake projects using [CTest](https://cmake.org/cmake/help/book/mastering-cmake/chapter/Testing%20With%20CMake%20and%20CTest.html) on GitHub Actions.
 - [**ROS 2 Workspace Action**](https://github.com/ichiro-its/ros2-ws-action):
   Setup, build and test a [ROS 2](https://www.ros.org/) workspace using GitHub Actions.
 
