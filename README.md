@@ -46,6 +46,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   Check for compiler warnings in your CMake project.
 - [**FixFormat.cmake**](https://github.com/threeal/FixFormat.cmake):
   Fix source codes formatting in your CMake project.
+- [**GitCheckout.cmake**](https://github.com/threeal/git-checkout-cmake):
+  Clone and check out a [Git](https://git-scm.com/) repository from a CMake project.
 
 ### Node.js Projects
 
