@@ -60,6 +60,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A minimalistic GitHub repository template to kickstart your [GitHub Action](https://github.com/features/actions) project.
 - [**Setup Yarn Berry Action**](https://github.com/threeal/yarn-install-action):
   Set up [Yarn](https://yarnpkg.com/) to a specified version and install Node.js project with cache support on GitHub Actions.
+- [**Pipx Install Action**](https://github.com/threeal/pipx-install-action):
+  Install [Python](https://www.python.org/) packages using [pipx](https://pipx.pypa.io/stable/) with cache support on GitHub Actions.
 - [**CMake Action**](https://github.com/threeal/cmake-action):
   Configure, build, and test your CMake project using GitHub Actions.
 - [**Gcovr Action**](https://github.com/threeal/gcovr-action/):
@@ -79,7 +81,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Project Starter**](https://github.com/threeal/project-starter):
   A minimalistic GitHub repository template to kickstart your project.
 - [**Python Starter**](https://github.com/threeal/python-starter):
-  A minimalistic GitHub repository template to kickstart your [Python](https://www.python.org/) project.
+  A minimalistic GitHub repository template to kickstart your Python project.
 - [**LeetSpace**](https://github.com/threeal/leetspace):
   A dedicated workspace and archive for my [LeetCode](https://leetcode.com/) submissions.
 
