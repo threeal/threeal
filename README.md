@@ -72,6 +72,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   Configure, build, and test your CMake project using GitHub Actions.
 - [**Gcovr Action**](https://github.com/threeal/gcovr-action/):
   Generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
+- [**LeetTest Action**](https://github.com/threeal/leettest-action/):
+  Compile and test solutions to LeetCode problems on GitHub Actions.
 
 ### GitHub Composite Actions Projects
 
