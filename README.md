@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Discord-chat%20me-5865f2?logo=discord&logoColor=f5f5f5&style=flat-square"/>
   </a>
   <br/>
-  <a href="https://www.linkedin.com/in/alfi-maulana-40546184/">
+  <a href="https://www.linkedin.com/in/alfi-m-40546184/">
     <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin&style=flat-square"/>
   </a>
   <a href="https://steamcommunity.com/id/threeal">
