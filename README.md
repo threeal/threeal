@@ -62,6 +62,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   Retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
 - [**LeetTest**](https://github.com/threeal/leettest):
   Tool for compiling and testing solutions to [LeetCode](https://leetcode.com/) problems.
+- [**GitHub Actions Utilities**](https://github.com/threeal/gha-utils): A minimalistic utility package for developing GitHub Actions.
 
 ### GitHub Actions Projects
 
