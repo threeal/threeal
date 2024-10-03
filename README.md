@@ -41,7 +41,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 ### CMake Projects
 
 - [**CMake Starter**](https://github.com/threeal/cmake-starter/):
-  A minimalistic GitHub repository template to kickstart your [CMake](https://cmake.org/) project.
+  A minimalistic template to start a new [CMake](https://cmake.org/) project.
 - [**Assertion.cmake**](https://github.com/threeal/assertion-cmake):
   A CMake module containing a collection of assertion functions and other
   utilities for testing CMake code.
