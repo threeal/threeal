@@ -46,7 +46,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A CMake module containing a collection of assertion functions and other
   utilities for testing CMake code.
 - [**CheckWarning.cmake**](https://github.com/threeal/CheckWarning.cmake):
-  Check for compiler warnings in your CMake project.
+  Check for compiler warnings in CMake projects.
 - [**FixFormat.cmake**](https://github.com/threeal/FixFormat.cmake):
   Fix source codes formatting in your CMake project.
 - [**GitCheckout.cmake**](https://github.com/threeal/git-checkout-cmake):
