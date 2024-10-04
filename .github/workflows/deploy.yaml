@@ -8,7 +8,7 @@ on:
 jobs:
   generate-animations:
     name: Generate Animations
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Generate Snake Animations
         uses: Platane/snk/svg-only@v3.2.0
@@ -27,7 +27,7 @@ jobs:
   deploy-pages:
     name: Deploy Pages
     needs: generate-animations
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     permissions:
       pages: write
       id-token: write
