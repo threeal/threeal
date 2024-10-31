@@ -67,7 +67,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 ### GitHub Actions Projects
 
 - [**Action Starter**](https://github.com/threeal/action-starter):
-  A minimalistic GitHub repository template to kickstart your [GitHub Action](https://github.com/features/actions) project.
+  A minimalist template for starting a new [GitHub Action](https://github.com/features/actions) project.
 - [**Cache Action**](https://github.com/threeal/cache-action): Save and restore files as a cache in GitHub Actions.
 - [**Setup Yarn Berry Action**](https://github.com/threeal/yarn-install-action):
   Set up [Yarn](https://yarnpkg.com/) to a specified version and install Node.js project with cache support on GitHub Actions.
