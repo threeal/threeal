@@ -58,6 +58,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 - [**Node.js Starter**](https://github.com/threeal/nodejs-starter):
   A minimalistic template for starting a new [Node.js](https://nodejs.org/en) project.
+- [**Discord Bot Starter**](https://github.com/threeal/discord-bot-starter):
+  A minimalist template for starting a new [Discord](https://discord.com/) bot project.
 - [**Google Rank**](https://github.com/threeal/google-rank):
   Retrieve the [Google](https://www.google.com/) search ranking of your website for specific keywords.
 - [**LeetTest**](https://github.com/threeal/leettest):
