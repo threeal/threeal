@@ -12,10 +12,5 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4.2.2
 
-      - name: Enable Yarn
-        run: corepack enable yarn
-
       - name: Check Formatting
-        run: |
-          yarn dlx prettier --write .
-          git diff --exit-code HEAD
+        run: npx --yes prettier --check .
