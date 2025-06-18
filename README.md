@@ -102,7 +102,7 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Project Starter**](https://github.com/threeal/project-starter):
   A minimalist template for starting a new project on GitHub.
 - [**Python Starter**](https://github.com/threeal/python-starter):
-  A minimalistic GitHub repository template to kickstart your Python project.
+  A minimalist template for starting a new Python project.
 - [**LeetSpace**](https://github.com/threeal/leetspace):
   A dedicated workspace and archive for my LeetCode submissions.
 
