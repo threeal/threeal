@@ -38,6 +38,11 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 - [**Result**](https://github.com/threeal/result):
   A simple C++ implementation of [Rust Result](https://doc.rust-lang.org/std/result/), an alternative to [Abseil Status](https://abseil.io/docs/cpp/guides/status).
 
+### Python Projects
+
+- [**Python Starter**](https://github.com/threeal/python-starter):
+  A minimalist template for starting a new Python project.
+
 ### CMake Projects
 
 - [**CMake Starter**](https://github.com/threeal/cmake-starter/):
@@ -101,8 +106,6 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 - [**Project Starter**](https://github.com/threeal/project-starter):
   A minimalist template for starting a new project on GitHub.
-- [**Python Starter**](https://github.com/threeal/python-starter):
-  A minimalist template for starting a new Python project.
 - [**LeetSpace**](https://github.com/threeal/leetspace):
   A dedicated workspace and archive for my LeetCode submissions.
 
