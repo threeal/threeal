@@ -42,6 +42,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
 
 - [**Python Starter**](https://github.com/threeal/python-starter):
   A minimalist template for starting a new Python project.
+- [**PiPER Kit**](https://github.com/threeal/piper-kit):
+  SDK and CLI tools for [AgileX PiPER](https://global.agilex.ai/products/piper) robotic arm.
 
 ### CMake Projects
 
