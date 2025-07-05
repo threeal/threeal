@@ -1,0 +1,8 @@
+pre-commit:
+  piped: true
+  jobs:
+    - name: fix formatting
+      run: npx --yes prettier --check .
+
+    - name: check diff
+      run: git diff --exit-code {staged_files}
