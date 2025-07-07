@@ -44,6 +44,8 @@ Please refer to [my repositories](https://github.com/threeal?tab=repositories) f
   A minimalist template for starting a new Python project.
 - [**PiPER Kit**](https://github.com/threeal/piper-kit):
   SDK and CLI tools for [AgileX PiPER](https://global.agilex.ai/products/piper) robotic arm.
+- [**Cursers**](https://github.com/threeal/cursers):
+  A minimal threaded wrapper for [Python curses](https://docs.python.org/3/howto/curses.html).
 
 ### CMake Projects
 
