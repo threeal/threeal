@@ -20,7 +20,7 @@ jobs:
       cancel-in-progress: false
     steps:
       - name: Generate Snake Animations
-        uses: Platane/snk/svg-only@v3.3.0
+        uses: Platane/snk/svg-only@v3.4.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
