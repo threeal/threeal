@@ -19,5 +19,5 @@ The Lefthook pre-commit hook runs `dprint fmt` automatically before every commit
 
 ## CI
 
-- **check.yaml** — runs the Lefthook pre-commit hook across all files on pull requests and pushes to `main`; fails if `dprint fmt` produces any changes
+- **ci.yaml** — runs the Lefthook pre-commit hook across all files on pull requests and pushes to `main`; fails if `dprint fmt` produces any changes
 - **deploy.yaml** — generates the snake contribution animation (via Platane/snk) and deploys to GitHub Pages; triggers daily, on push to `main`, or manually

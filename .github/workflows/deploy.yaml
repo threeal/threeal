@@ -14,12 +14,12 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deploy-pages.outputs.page_url }}
     concurrency:
       group: pages
       cancel-in-progress: false
     steps:
-      - name: Generate Snake Animations
+      - name: Generate snake animations
         uses: Platane/snk/svg-only@v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -28,11 +28,11 @@ jobs:
             dist/grid-snake-dark.svg?palette=github-dark
             dist/grid-snake-light.svg?palette=github-light
 
-      - name: Upload Pages
+      - name: Upload pages
         uses: actions/upload-pages-artifact@v5.0.0
         with:
           path: dist
 
-      - name: Deploy Pages
-        id: deployment
+      - name: Deploy pages
+        id: deploy-pages
         uses: actions/deploy-pages@v5.0.0
