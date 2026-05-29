@@ -1,12 +1,12 @@
-name: Check
+name: CI
 on:
   workflow_dispatch:
   pull_request:
   push:
     branches: [main]
 jobs:
-  check-format:
-    name: Check Formatting
+  check:
+    name: Check
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout
